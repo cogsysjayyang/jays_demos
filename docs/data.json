@@ -47,6 +47,6 @@
     "deviceType": "string",
     "mediaType": "video",
     "fileExtension": "mov",
-    "eventType": "calledToHomeDemo",
+    "eventType": "calledToHome",
     "createAt": 4545454
 }]
