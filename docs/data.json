@@ -29,4 +29,14 @@
     "fileExtension": "mov",
     "eventType": "wrong_password",
     "createAt": 67686
+},{
+    "serviceId": "smarthome-app",
+    "thingName": "alpha",
+    "model": "alpha",
+    "productType": "string",
+    "deviceType": "string",
+    "mediaType": "video",
+    "fileExtension": "mov",
+    "eventType": "calledToHome",
+    "createAt": 4545454
 }]
