@@ -39,4 +39,14 @@
     "fileExtension": "mov",
     "eventType": "calledToHome",
     "createAt": 4545454
+},{
+    "serviceId": "smarthome-app",
+    "thingName": "alpha",
+    "model": "alpha",
+    "productType": "string",
+    "deviceType": "string",
+    "mediaType": "video",
+    "fileExtension": "mov",
+    "eventType": "calledToHomeDemo",
+    "createAt": 4545454
 }]
